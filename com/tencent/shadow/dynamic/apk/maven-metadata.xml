@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tencent.shadow.dynamic</groupId>
+  <artifactId>apk</artifactId>
+  <versioning>
+    <latest>local-2.3.0-53-gd1457e46</latest>
+    <release>local-2.3.0-53-gd1457e46</release>
+    <versions>
+      <version>local-2.3.0-53-gd1457e46</version>
+    </versions>
+    <lastUpdated>20230506021211</lastUpdated>
+  </versioning>
+</metadata>
